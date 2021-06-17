@@ -18,7 +18,7 @@
     "standard": "^11.0.0"
   },
   "dependencies": {
-    "husky": "^3.0.5",
+    "husky": "^6.0.0",
     "level": "^5.0.1",
     "yaml-lint": "^1.2.4"
   },
