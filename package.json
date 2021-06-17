@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "bottleneck": "^2.1.0",
+    "bottleneck": "^2.19.5",
     "cool-story-repo": "^1.2.0",
     "csv-parser": "^2.0.0",
     "dotenv-safe": "^5.0.1",
