@@ -7,7 +7,7 @@
   "devDependencies": {
     "bottleneck": "^2.1.0",
     "cool-story-repo": "^1.2.0",
-    "csv-parser": "^2.0.0",
+    "csv-parser": "^3.1.0",
     "dotenv-safe": "^5.0.1",
     "ellipsize": "^0.1.0",
     "is-url": "^1.2.4",
