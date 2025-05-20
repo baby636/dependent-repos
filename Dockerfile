@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:23.11.1-alpine3.21
 
 # Labels for GitHub to read the action
 LABEL "com.github.actions.name"="Update Dependent Repos"
